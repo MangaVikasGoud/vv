@@ -1,0 +1,21 @@
+body {
+  background-color: #9fdfcd;
+}
+
+h1 {
+  color: #097054;
+}
+
+h3 {
+  color: #097054;
+}
+
+hr {
+  background-color: #9fdfcd;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: 	gray;
+  border-width: 5px;
+  height: px;
+  width: 5%;
+}
